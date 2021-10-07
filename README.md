@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuiasora1024
 - 👀 I aim to be a business analyst in short term, and a project manager in long term. 
 - 🌱 I’m currently learning CS50X from edx
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (no idea for now)
 - 📫 How to reach me: あみょん#6597 (discord)
 
 <!---
